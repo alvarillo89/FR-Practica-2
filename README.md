@@ -8,3 +8,5 @@ servidor iterativo y servidor concurrente.
 Autores:
 * Álvaro Fernández García
 * Salvador Corts Sánchez (https://github.com/salvacorts)
+
+Grado en Ingeniería Informática, Curso 2017-2018, ETSIIT
