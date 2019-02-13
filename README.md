@@ -6,4 +6,4 @@ Implementación en Java de dos enfoques diferentes de servidor-cliente utilizand
 
 Autores:
 * Álvaro Fernández García
-* Salvador Corts Sánchez
+* Salvador Corts Sánchez (https://github.com/salvacorts)
