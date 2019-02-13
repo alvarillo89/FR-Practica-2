@@ -2,7 +2,8 @@
 
 Segunda práctica de la asignatura Fundamentos de Redes.
 
-Implementación en Java de dos enfoques diferentes de servidor-cliente utilizando una conexión TCP: iterativo y concurrente.
+Implementación en Java de dos enfoques diferentes de la arquitectura cliente-servidor utilizando una conexión TCP: 
+servidor iterativo y servidor concurrente.
 
 Autores:
 * Álvaro Fernández García
